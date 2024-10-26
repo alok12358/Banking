@@ -22,7 +22,7 @@ const ibmPlexSerif = IBM_Plex_Serif({
 // });
 
 export const metadata: Metadata = {
-  title: "Alok Patel",
+  title: "AlokPatel",
   description: "Created a modern banking platform For Everyone By Devloper Alok ",
   icons:{
   icon: '/icons/logo.svg'
@@ -44,3 +44,4 @@ export default function RootLayout({
     </html>
   );
 }
+ 
